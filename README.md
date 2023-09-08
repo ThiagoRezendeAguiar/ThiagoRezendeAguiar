@@ -9,4 +9,4 @@
 </div>
 
 ### Skills:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css)
