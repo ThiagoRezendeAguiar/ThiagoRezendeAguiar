@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3> I'm a dedicated Computer Science student, diving headfirst into the captivating realm of technology. </h3>
 <p><img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil</p>
 
 <div align = "center">
